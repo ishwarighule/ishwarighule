@@ -1,9 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I am Ishwari Ghule
+
+
+
+I am a third-year undergraduate student pursuing a Bachelor's in Computer Engineering with specialization of AIML, from SITS Pune. I am an Open Source enthusiast, web developer, and currently learning Data Scienece.
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ishwarighule&date_format=M%20j%5B%2C%20Y%5D&stroke=FF5016)](https://git.io/streak-stats)
 
 <!--
 **ishwarighule/ishwarighule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
