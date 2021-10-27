@@ -1,7 +1,7 @@
 
 </br>
 
-### Hi there 👋, I am Ishwari Ghule
+### Hey there 👋, I am Ishwari Ghule
 
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
@@ -9,7 +9,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-I am a third-year undergraduate student pursuing a Bachelor's in Computer Engineering with specialization of AIML, from SITS Pune. I am an Open Source enthusiast, Front-end developer, and currently learning Data Scienece.
+I am a third-year undergraduate student pursuing a Bachelor's in Computer Engineering with specialization of AIML. I am an Open Source enthusiast, Front-end developer, and currently learning Data Scienece.
 
 </br>
 </br>
