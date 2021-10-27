@@ -28,7 +28,7 @@ I am a third-year undergraduate student pursuing a Bachelor's in Computer Engine
 ### 📫 Reach me at 
 
 [![Twitter Badge](https://img.shields.io/badge/-@ishwari03-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ishwari03/)](https://twitter.com/ishwari03/)
-[![Linkedin Badge](https://img.shields.io/badge/-ishwarighule-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//ishwari-g-b592371b8)](https://www.linkedin.com/in/tanejasaksham/)
+[![Linkedin Badge](https://img.shields.io/badge/-ishwarighule-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//ishwari-g-b592371b8)](https://www.linkedin.com/in/ishwari-g-b592371b8)
 
 
 
