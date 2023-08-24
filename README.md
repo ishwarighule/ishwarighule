@@ -6,13 +6,13 @@
 
 
 
-- 🔭 I’m currently working on **Data Analytics Projects**
+- 🔭 I’m currently working on **Data Analysis Projects**
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
 <!---- 📝 I regularly write articles on [https://beinganalyst.hashnode.dev/](https://beinganalyst.hashnode.dev/) ------>
 
-- 💬 Ask me about **Python, SQL, Tableau, Power BI, Excel**
+- 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **ishwarighule01@gmail.com**
 
