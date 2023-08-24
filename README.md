@@ -34,7 +34,7 @@
   
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishwarighule&show_icons=true&locale=en&layout=compact" alt="ishwarighule" height=195 /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishwarighule&show_icons=true&locale=en&layout=compact" alt="ishwarighule"/></p>
 <!----
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishwarighule&show_icons=true&locale=en" alt="ishwarighule" /></p>--->
 
